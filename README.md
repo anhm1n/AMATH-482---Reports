@@ -1,6 +1,12 @@
 # AMATH-482---Reports
 ## What is this project?
-This repository is a collection of my blood, sweat, and ... more sweat that I put into coding. AMATH 482 is a upper-division Applied Mathematics covering mathematical tools used in data analysis. We covered topics such as Fourier transforms, spectrograms, and more. Every two weeks, we had a report due, and you can find the completed versions here. Each report features a different mathematical concept utilized for data analysis. 
+This repository is a collection of my blood, sweat, and ... more sweat that I put into coding. AMATH 482 is a upper-division Applied Mathematics covering mathematical tools used in data analysis. We covered topics such as Fourier transforms, spectrograms, and more. Every two weeks, we had a report due, and you can find the completed versions here. Each report features a different mathematical concept utilized for data analysis. Topics covered include:
+* Fourier Transforms
+* Spectrograms
+* Principal Component Analysis
+* Linear Discriminant Analysis
+* Neural Networks
+
 
 ## Why is this project important?
 As an undergraduate studying Statistics, the only thing I was concerned about was building a model that accurately described data and/or predicted future observations. This class broadened my understanding and passion for data analysis by teaching me how other mathematical tools are being used to not only model the data, but represent, process, and transform data. This project is especially important to me in showing the potential of data science and how math and statistics form its backbone. The project features some of the coolest techniques hot in the market right now.
